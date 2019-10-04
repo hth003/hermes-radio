@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta name="viewport" content="width=device-width;height=device-height; user-scalable=no" /> 
+  <meta http-equiv="Content-type" content="text/html;charset=utf-8"> 
+  <title>PhoneGap Hermes Radio</title> 
+  <link rel="styleSheet" href="css/index.css"/>  
+</head> 
+ 
+<body>
+  <h2>Hermes Radio</h2>
+  <p>This <code>crowdsource proximity alert</code> allows all workers to mark and be alerted of dangerous locations on the worksite.</p>
+  
+  <button class="lookup" onclick="getCurrentPosition();">Start</button>
+  <br /><br /><br /><br/>
+  <label id="lblLatitude"></label><br />
+  <label id="lblLongitude"></label><br />
+  <label id="lblAccuracy"></label><br /><br />
+  
+  <button class="lookup" onclick="alert();">Alert</button>
+  <br /><br /><br /><br/>
+  <label id="lblLatitudeA"></label><br />
+  <label id="lblLongitudeA"></label><br />
+  <label id="lblAccuracyA"></label><br /><br />
+  
+  <button class="lookup" onclick="safe();">Safe</button>
+  <br /><br /><br /><br/>
+  <script type="text/javascript" src="js/cordova.js"></script> 
+  <script type="text/javascript" src="js/jq.js"></script>  
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
+  <script src="js/reverse_lookup.js"></script>
+</body> 
+</html> 

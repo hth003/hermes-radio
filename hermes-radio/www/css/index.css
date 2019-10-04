@@ -1,0 +1,49 @@
+.lookup
+{
+	border: 1px solid #555;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	text-align: center;
+	display: block;
+	background: #eceae7;
+	color: #e87a12;
+	font-size: 1.1em;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 0.7em 0.1em;
+	clear: none;
+	float: left;
+	width:75%;
+}
+
+code
+{ 
+	font-weight: bold; 
+	font-size: 1.0em;
+	color: #bc6108;
+}
+
+h2 
+{ 
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 0.25em;
+	color: #e87a12;
+	font-size: 1.4em;
+	font-weight: bold;
+	margin: 1.3em 0px 0.8em 0px;
+	text-shadow: #FFFFFF 0px 1px 1px;
+}
+
+label 
+{
+    display: block;
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+label:first-letter
+{
+	font-weight: bold; 
+	font-size: 1.0em;
+	color: #bc6108;
+}

@@ -1,0 +1,22 @@
+{'options': b'\x00', 'rf_data': b'$GPGGA,163849.622,,,,,0,00,,M,,M,,*7F\r\n$GPRMC,163849.62,V,,,,,0.00,0.00,160116,,,N4B\r\n', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163850.622,,,,,0,00,,M,,M,,*77\r\n$GPRMC,163850.62,V,,,,,0.00,0.00,160116,,,*43\r\n', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163851.622,,,,,0,00,,M,,M,,*76\r\n$GPRMC,163851.62,V,,,,,0.00,0.00,160116,,,N42\r\n', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163852.622,,,,,0,00,,M,,M,,*75\r\n$GPRMC,163852.62,V,,,,,0.00,0.00,160116,,,N41\r\n', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163853.622,,,,,0,00,,M,,M,,*74\r\n$GPRMC,163853.62,V,,,,,0.00,0.00,160116,,,N40\r\n', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163854.622,,,,,0,00,,M,,M,,*73\r\n$GPRMC,163854.62,V,,,,,0.00,0.00,160116,,,N47\r\n', 'id': 'rx', 'rssi': b'9', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163855.622,,,,,0,00,,M,,M,,*72\r\n$GPRMC,163855.62,V,,,,,0.00,0.00,160116,,,N46\r\n', 'id': 'rx', 'rssi': b'4', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'Button Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert Sta', 'id': 'rx', 'rssi': b'6', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'te:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Aler', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b't State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton', 'id': 'rx', 'rssi': b'4', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b' Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\n', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163856.622,,,,,0,00,,M,,M,,*71\r\n$GPRMC,163856.62,V,,,,,0.00,0.00,160116,,,N45\r\n', 'id': 'rx', 'rssi': b'4', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'Button Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert Sta', 'id': 'rx', 'rssi': b'4', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'te:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Aler', 'id': 'rx', 'rssi': b'4', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b't State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\nButton Alert State:1\n', 'id': 'rx', 'rssi': b'4', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163857.622,,,,,0,00,,M,,M,,*70\r\n$GPRMC,163857.62,V,,,,,0.00,0.00,160116,,,N44\r\n', 'id': 'rx', 'rssi': b':', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163858.622,,,,,0,00,,M,,M,,*7F\r\n$GPRMC,163858.62,V,,,,,0.00,0.00,160116,,,N4B\r\n', 'id': 'rx', 'rssi': b'7', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163859.622,,,,,0,00,,M,,M,,*7E\r\n$GPRMC,163859.62,V,,,,,0.00,0.00,160116,,,N4A\r\n', 'id': 'rx', 'rssi': b'7', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163900.622,,,,,0,00,,M,,M,,*73\r\n$GPRMC,163900.62,V,,,,,0.00,0.00,160116,,,N47\r\n', 'id': 'rx', 'rssi': b'7', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163901.622,,,,,0,00,,M,,M,,*72\r\n$GPRMC,163901.62,V,,,,,0.00,0.00,160116,,,N46\r\n', 'id': 'rx', 'rssi': b'4', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163902.622,,,,,0,00,,M,,M,,*71\r\n$GPRMC,163902.62,V,,,,,0.00,0.00,160116,,,N45\r\n', 'id': 'rx', 'rssi': b'5', 'source_addr': b'\x00\x08'}
+{'options': b'\x00', 'rf_data': b'$GPGGA,163903.622,,,,,0,00,,M,,M,,*70\r\n$GPRMC,163903.62,V,,,,,0.00,0.00,160116,,,N44\r\n', 'id': 'rx', 'rssi': b'6', 'source_addr': b'\x00\x08'}
